@@ -8,7 +8,7 @@
 PRODUCT_NAME = notificaciones
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.notificaciones
+PRODUCT_BUNDLE_IDENTIFIER = com.yofo.notificaciones
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.
